@@ -1,2 +1,3 @@
-# martins.kruklis
-Mājas darbs ATP2
+# *Mājas darbs ATP2*
+## Kopsavilkums
+Mani sauc Mārtiņš Krūklis
