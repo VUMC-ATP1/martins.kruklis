@@ -39,3 +39,7 @@ Mana kontaktinformācija ir pieejama zemāk sadaļā ["Kontaktinformācija"](#Ko
 |Angļu  | Ļoti labi |
 |Itāļu  | Labi |
 |Krievu  |Sarunvaloda  |
+
+## Bilde
+
+![es ar suni](https://github.com/VUMC-ATP1/martins.kruklis/blob/feature/about_me/img/martins_dog.jpeg)
