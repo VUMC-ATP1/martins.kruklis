@@ -60,6 +60,9 @@ li {
 #copyright {
     font-family: 'Bebas Neue', cursive;
     float: right;
-    margin-top: ;
     margin-right: 20px;
+}
+
+#summary {
+    margin-top: 30px;
 }
