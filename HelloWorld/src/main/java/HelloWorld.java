@@ -5,8 +5,8 @@ public class HelloWorld {
         System.out.printf("Second argument is %s\n", args[1]);
         String[] twoWords = {"hey", "man"};
         System.out.printf("My string is %s\n", twoWords[0]);
-        short salariesinIt[] = {1000, 2000, 3000};
-        short emptySalariesinIt[] = new short[4];
+        short[] salariesinIt = {1000, 2000, 3000};
+        short[] emptySalariesinIt = new short[4];
         emptySalariesinIt[0] = 1000;
         emptySalariesinIt[1] = 2000;
         emptySalariesinIt[2] = 3000;
