@@ -1,2 +1,2 @@
-// let userName = prompt("What is your name?")
-// alert("Hello " + userName + ", welcome to my CV page");
+let userName = prompt("What is your name?")
+alert("Hello " + userName + ", welcome to my CV page");
