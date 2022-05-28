@@ -32,7 +32,6 @@ public class HomeWorkTwo {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number between 1 and 12!");
         int num = scanner.nextInt();
-        String monthString;
         switch (num) {
             case 1:
                 System.out.println("January");
@@ -105,13 +104,6 @@ public class HomeWorkTwo {
         } else {
             System.out.println("Luksofors nestrādā. Paskaties uz abām pusēm un uzmanīgi ej pāri ielai!");
         }
-        System.out.println("Spied Enter!");
-        try {
-            System.in.read();
-        } catch (Exception e) {
-        }
-        ;
-
 
 //5. uzdevums (metodes izsauksana)
         printBusinessCard();
