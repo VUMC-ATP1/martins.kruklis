@@ -5,11 +5,11 @@ import java.util.Scanner;
 
 public class Java3_ekstra {
     public static void main(String[] args) {
-
         Random random = new Random();
-        int x = random.nextInt(50);
-//        Skaitlis ir:
-//        System.out.println("Skaitlis ir " + x);
+// Ģenerēt skaitli 0-50:
+        int x = random.nextInt(51);
+// Skaitlis ir:
+// System.out.println("Skaitlis ir " + x);
         int guessesLeft = 10;
         int guessesMade = 0;
         Scanner scanner = new Scanner(System.in);
