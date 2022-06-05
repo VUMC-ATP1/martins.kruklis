@@ -120,7 +120,7 @@ public class LoopHomeWork {
         System.out.println();
         System.out.println();
         System.out.println("\\\\5. uzdevums");
-// 5. uzdevums
+// 5. uzdevums (metodes izsauksana)
         System.out.println("Lūdzu, ieraksti kādu veselu skaitli!");
         int input = scanner.nextInt();
         System.out.printf("Skaitļa \"%d\" faktoriāls ir %d%n", input, Factorial(input));
@@ -148,6 +148,7 @@ public class LoopHomeWork {
         }
     }
 
+// 5. uzdevums (metodes deklaracija)
     public static int Factorial(int n) {
         if (n == 1) {
             return 1;
